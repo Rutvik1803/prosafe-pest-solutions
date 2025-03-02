@@ -11,6 +11,9 @@ export const metadata: Metadata = {
   description:
     'Professional pest control services in Vadodara, Bharuch, and Ankleshwar. We offer mosquito, cockroach, bedbug, ant, termite, and rodent control services.',
   generator: 'v0.dev',
+  icons: {
+    icon: '/logo_final.png',
+  },
 };
 
 export default function RootLayout({
